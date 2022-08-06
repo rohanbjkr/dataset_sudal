@@ -1,0 +1,189 @@
+﻿sn,hh,area,gender,age,education,family,religion,ethnic,hhsize,employment,occupation,sector,food_today,food_10_yrs,expenses,income,income_avg
+1,4,Koteshwor,Female,24,Masters,Nuclear,Hindiusm,2,15,Employed,3,1,180000,77620,356000,356000,23733
+2,74,Koteshwor,Female,25,Attended School,Joint,Buddhist,9,13,Employed,13,2,222122,160801,697073,567507,84137
+3,11,Koteshwor,Male,25,Masters,Nuclear,Hindiusm,2,5,Employed,8,4,120000,14838,333000,333000,66600
+4,8,Koteshwor,Male,25,Intermediate,Nuclear,Hindiusm,2,6,Employed,5,4,144000,7281,283000,283000,47167
+5,12,Koteshwor,Male,26,Masters,Nuclear,Hindiusm,2,6,Employed,8,4,240000,158868,552000,552000,92000
+6,9,Koteshwor,Female,26,Masters,Nuclear,Hindiusm,10,4,Employed,8,4,192000,85823,546000,546000,136500
+7,48,Koteshwor,Male,27,Intermediate,Joint,Hindiusm,7,15,Unemployed,,,168070,71558,206541,607323,33360
+8,79,Koteshwor,Female,28,Intermediate,Nuclear,Buddhist,5,11,Unemployed,,,116861,129034,704725,417582,193556
+9,82,Koteshwor,Male,29,Masters,Joint,Hindiusm,3,15,Employed,4,1,161420,68132,254047,396887,49063
+10,7,Koteshwor,Male,29,Attended School,Joint,Hindiusm,2,4,Employed,6,2,168000,156856,386734,553414,138354
+11,1,Koteshwor,Male,30,Masters,Joint,Buddhist,5,4,Employed,15,1,240000,185600,785000,785000,196250
+12,80,Koteshwor,Female,33,Bachelors,Nuclear,Buddhist,8,3,Employed,11,4,116289,163207,309831,515386,90467
+13,45,Koteshwor,Female,33,SLC,Nuclear,Hindiusm,10,15,Unemployed,,,187233,7752,520913,457643,82829
+14,10,Koteshwor,Male,33,Masters,Joint,Hindiusm,8,4,Employed,3,4,72000,37430,185400,185400,46350
+15,19,Koteshwor,Male,34,Masters,Joint,Hindiusm,3,3,Employed,,,240000,160242,377000,377000,125667
+16,38,Koteshwor,Male,34,Bachelors,Nuclear,Hindiusm,7,8,Unemployed,,,150903,38120,605925,498507,85658
+17,37,Koteshwor,Female,34,Intermediate,Nuclear,Buddhist,2,7,Unemployed,,,144227,165584,318814,723933,164043
+18,84,Koteshwor,Female,34,Intermediate,Joint,Hindiusm,4,11,Employed,14,1,255386,53390,480032,248168,143547
+19,6,Koteshwor,Female,34,Masters,Joint,Hindiusm,2,4,Employed,6,2,120000,68408,527000,527000,131750
+20,29,Koteshwor,Male,35,Attended School,Joint,Hindiusm,2,3,Employed,7,2,90000,45269,233000,233000,77667
+21,16,Koteshwor,Male,35,Masters,Joint,Hindiusm,3,5,Employed,7,4,120000,112901,213000,213000,42600
+22,30,Koteshwor,Female,36,Attended School,Nuclear,Hindiusm,3,5,Unemployed,,,96500,46323,631000,631000,126200
+23,47,Koteshwor,Male,37,Masters,Nuclear,Hindiusm,8,6,Unemployed,,,179826,39120,627085,464193,111077
+24,55,Koteshwor,Female,37,Masters,Nuclear,Kirat,10,11,Employed,3,3,203053,107344,209438,580133,184933
+25,83,Koteshwor,Female,37,Bachelors,Joint,Kirat,2,10,Employed,8,4,180713,46776,178992,688128,89615
+26,5,Koteshwor,Female,38,Masters,Joint,Hindiusm,2,4,Unemployed,,,180000,130121,421000,421000,105250
+27,2,Koteshwor,Male,38,Masters,Nuclear,Hindiusm,2,6,Employed,9,1,180000,52047,470000,470000,78333
+28,18,Koteshwor,Male,38,Masters,Joint,Buddhist,6,5,Employed,3,2,180000,44306,304700,404700,80940
+29,17,Koteshwor,Male,38,Masters,Nuclear,Buddhist,3,5,Employed,7,2,110000,82342,162000,162000,32400
+30,34,Koteshwor,Male,39,Attended School,Nuclear,Hindiusm,9,13,Employed,7,2,215966,108015,370876,561975,148327
+31,35,Koteshwor,Male,39,Intermediate,Joint,Buddhist,8,10,Employed,11,4,218696,67948,453641,210452,104355
+32,66,Koteshwor,Female,39,SLC,Nuclear,Hindiusm,3,3,Employed,12,1,192057,166756,493581,537610,61188
+33,15,Koteshwor,Male,40,Masters,Joint,Hindiusm,3,4,Unemployed,,,120000,32547,297000,297000,74250
+34,23,Koteshwor,Male,40,Intermediate,Joint,Hindiusm,2,4,Employed,7,4,120000,90701,285000,285000,71250
+35,3,Koteshwor,Female,40,Masters,Joint,Hindiusm,2,4,Employed,7,4,180000,125802,382000,382000,95500
+36,42,Koteshwor,Male,41,Intermediate,Nuclear,Buddhist,7,10,Employed,3,2,93986,163550,360835,304643,151241
+37,32,Koteshwor,Male,41,Masters,Joint,Buddhist,6,11,Unemployed,,,191009,149428,176068,520958,156996
+38,24,Koteshwor,Male,42,Masters,Joint,Hindiusm,3,4,Unemployed,,,100000,77901,255000,255000,63750
+39,52,Koteshwor,Female,42,Masters,Nuclear,Kirat,6,4,Unemployed,,,74327,174860,616762,584887,105243
+40,44,Koteshwor,Female,43,Attended School,Joint,Buddhist,8,3,Unemployed,,,176555,121793,687736,568771,196101
+41,28,Koteshwor,Male,43,Masters,Joint,Hindiusm,2,4,Employed,6,2,100000,22162,715000,715000,178750
+42,61,Koteshwor,Female,44,Bachelors,Joint,Kirat,2,8,Employed,10,3,224170,166377,542215,281206,33528
+43,51,Koteshwor,Female,44,Intermediate,Nuclear,Kirat,3,12,Employed,5,2,113707,66210,712850,409045,157472
+44,57,Koteshwor,Male,45,SLC,Joint,Kirat,5,9,Unemployed,,,117208,83640,225943,744206,47286
+45,70,Koteshwor,Female,46,SLC,Joint,Kirat,5,14,Employed,7,3,160351,172987,402677,351728,93629
+46,31,Koteshwor,Male,46,SLC,Nuclear,Buddhist,8,6,Employed,14,4,73836,132237,440535,263186,53599
+47,13,Koteshwor,Male,48,Masters,Joint,Hindiusm,3,3,Employed,6,2,120000,97585,391000,391000,130333
+48,69,Koteshwor,Female,48,Masters,Joint,Buddhist,2,10,Employed,8,4,228022,145091,170232,608458,142940
+49,56,Koteshwor,Male,50,Attended School,Nuclear,Buddhist,7,4,Employed,10,3,249907,81666,536052,357691,72239
+50,21,Koteshwor,Male,50,Attended School,Joint,Hindiusm,3,4,Employed,3,4,144000,98639,587000,587000,146750
+51,53,Koteshwor,Male,50,Attended School,Nuclear,Buddhist,6,7,Unemployed,,,146245,171776,191685,293308,120066
+52,81,Koteshwor,Female,52,Masters,Joint,Buddhist,5,8,Employed,7,1,108560,11806,582461,428443,189072
+53,14,Koteshwor,Male,53,Attended School,Joint,Hindiusm,3,3,Employed,8,4,180000,101056,355000,355000,118333
+54,43,Koteshwor,Female,54,Intermediate,Nuclear,Hindiusm,3,3,Unemployed,,,83407,92266,267259,637446,58524
+55,40,Koteshwor,Male,54,Masters,Joint,Hindiusm,9,7,Employed,7,3,244769,168533,666455,438727,69990
+56,60,Koteshwor,Female,55,Bachelors,Nuclear,Buddhist,3,9,Unemployed,,,195367,150397,363101,674986,142199
+57,54,Koteshwor,Male,56,SLC,Nuclear,Hindiusm,2,10,Unemployed,,,124453,133668,761452,251192,78566
+58,64,Koteshwor,Male,57,Attended School,Joint,Hindiusm,4,12,Unemployed,,,101239,177561,509908,217707,184715
+59,87,Koteshwor,Male,57,Bachelors,Joint,Hindiusm,2,8,Employed,15,4,220230,136631,716340,462120,59027
+60,25,Koteshwor,Male,58,Attended School,Nuclear,Hindiusm,3,7,Unemployed,,,200000,182152,300000,300000,42857
+61,36,Koteshwor,Male,59,Intermediate,Joint,Kirat,9,4,Employed,13,1,115214,114907,303236,761415,27775
+62,63,Koteshwor,Male,59,Bachelors,Joint,Buddhist,2,15,Employed,5,3,119269,67382,355714,558631,189753
+63,73,Koteshwor,Female,60,Bachelors,Nuclear,Buddhist,10,5,Unemployed,,,181249,69173,237841,711444,27902
+64,62,Koteshwor,Male,60,Bachelors,Nuclear,Kirat,3,10,Employed,8,2,212026,81017,271181,727163,138503
+65,72,Koteshwor,Male,61,SLC,Nuclear,Hindiusm,8,11,Unemployed,,,120470,74561,654267,637286,190040
+66,49,Koteshwor,Male,61,SLC,Joint,Buddhist,10,13,Employed,11,1,264901,162670,505124,592060,29346
+67,22,Koteshwor,Male,62,Masters,Nuclear,Hindiusm,3,6,Unemployed,,,240000,186879,466000,466000,77667
+68,67,Koteshwor,Female,63,SLC,Nuclear,Hindiusm,7,13,Employed,12,4,169697,160130,679168,608405,165996
+69,86,Koteshwor,Male,64,Intermediate,Joint,Kirat,8,8,Employed,12,1,189455,34039,667583,389033,60784
+70,68,Koteshwor,Female,64,Bachelors,Nuclear,Buddhist,3,4,Employed,9,1,192616,120710,592913,245981,163840
+71,39,Koteshwor,Male,66,Attended School,Nuclear,Kirat,4,7,Employed,11,2,122191,168550,342500,493252,84034
+72,76,Koteshwor,Female,67,Bachelors,Nuclear,Kirat,6,10,Employed,11,3,204767,175594,417807,289818,93130
+73,59,Koteshwor,Female,67,Bachelors,Joint,Hindiusm,8,3,Employed,6,3,217758,38737,747671,508776,159045
+74,78,Koteshwor,Female,68,Attended School,Nuclear,Buddhist,9,11,Unemployed,,,239356,42027,449221,587344,195812
+75,58,Koteshwor,Male,68,Bachelors,Joint,Hindiusm,9,11,Employed,14,2,258216,23325,537462,487513,26159
+76,77,Koteshwor,Male,71,Bachelors,Nuclear,Kirat,2,15,Unemployed,,,197948,146911,535041,735644,117395
+77,46,Koteshwor,Female,72,Intermediate,Joint,Hindiusm,9,15,Unemployed,,,130562,178368,663477,206323,115420
+78,85,Koteshwor,Male,73,Masters,Joint,Hindiusm,4,10,Employed,5,4,174009,175234,691749,502804,136817
+79,26,Koteshwor,Male,74,Attended School,Nuclear,Hindiusm,3,5,Unemployed,,,258900,58701,698900,698900,139780
+80,33,Koteshwor,Male,75,Intermediate,Joint,Kirat,5,9,Unemployed,,,133369,129699,544136,632238,33966
+81,71,Koteshwor,Male,76,Intermediate,Nuclear,Kirat,7,4,Unemployed,,,80047,163555,628415,169390,25546
+82,75,Koteshwor,Female,76,Bachelors,Nuclear,Hindiusm,4,8,Employed,4,1,236263,142977,229296,419645,169659
+83,65,Koteshwor,Male,76,Masters,Joint,Hindiusm,10,9,Unemployed,,,219824,142016,740294,244271,43325
+84,41,Koteshwor,Male,77,Bachelors,Joint,Hindiusm,10,15,Employed,4,3,221495,128097,526528,388438,195830
+85,50,Koteshwor,Female,78,Attended School,Nuclear,Buddhist,10,15,Employed,3,2,229698,97945,540850,227683,154224
+86,20,Koteshwor,Male,78,Attended School,Nuclear,Hindiusm,3,11,Unemployed,,,265000,76447,741980,741980,67453
+87,14,Sudal,Female,15,Attended School,Joint,Hindiusm,3,2,Unemployed,,,56890,44741,64570,65570,32785
+88,29,Sudal,Female,16,Masters,Joint,Hindiusm,2,4,Unemployed,,,60000,53213,118200,118200,29550
+89,30,Sudal,Male,18,Masters,Nuclear,Hindiusm,3,3,Employed,8,2,72054,95202,333400,124180,151012
+90,8,Sudal,Male,19,Intermediate,Joint,Hindiusm,3,4,Unemployed,,,90000,72466,159000,159000,39750
+91,50,Sudal,Female,21,Intermediate,Joint,Hindiusm,3,3,Unemployed,,,98998,47920,219998,281502,108512
+92,23,Sudal,Female,22,Intermediate,Joint,Hindiusm,3,5,Employed,9,4,60000,32890,163600,200000,40000
+93,76,Sudal,Female,22,SLC,Nuclear,Hindiusm,3,2,Unemployed,,,109396,51689,122229,326472,124225
+94,78,Sudal,Male,22,SLC,Joint,Hindiusm,2,5,Employed,9,1,58842,63861,439875,525173,121351
+95,33,Sudal,Male,22,Masters,Nuclear,Hindiusm,3,6,Unemployed,,,113283,4402,288849,82395,186400
+96,65,Sudal,Female,22,Masters,Joint,Hindiusm,2,2,Employed,10,1,70583,51251,117680,502597,129592
+97,20,Sudal,Male,22,Attended School,Nuclear,Hindiusm,3,6,Employed,7,4,60000,23568,172000,192000,32000
+98,34,Sudal,Female,23,Attended School,Joint,Hindiusm,2,5,Employed,6,2,59957,54904,393660,104695,25052
+99,53,Sudal,Male,24,Attended School,Nuclear,Hindiusm,2,4,Employed,4,2,110139,39332,202349,279713,104021
+100,100,Sudal,Female,24,Masters,Nuclear,Hindiusm,2,5,Unemployed,,,62000,59379,408737,225922,84367
+101,24,Sudal,Male,24,Attended School,Joint,Hindiusm,3,4,Employed,8,4,25000,10102,98000,98000,24500
+102,81,Sudal,Male,24,Bachelors,Joint,Hindiusm,2,5,Employed,2,2,66260,11554,430886,123511,38082
+103,60,Sudal,Male,24,Attended School,Nuclear,Hindiusm,3,7,Employed,2,3,72461,15987,461741,458248,99334
+104,47,Sudal,Male,25,SLC,Nuclear,Hindiusm,3,3,Unemployed,,,25468,23476,270852,455960,33300
+105,43,Sudal,Female,25,Masters,Joint,Hindiusm,2,7,Employed,9,2,35457,89117,116940,510110,123288
+106,21,Sudal,Female,25,Attended School,Joint,Hindiusm,3,4,Employed,8,4,120000,105788,300000,556890,139223
+107,38,Sudal,Male,25,Attended School,Nuclear,Hindiusm,3,2,Unemployed,,,28767,28515,399407,421918,198322
+108,12,Sudal,Male,26,Masters,Joint,Hindiusm,3,3,Unemployed,,,80000,9057,154200,360000,120000
+109,86,Sudal,Male,26,Attended School,Joint,Hindiusm,2,4,Employed,8,2,111417,48602,214439,320803,46242
+110,96,Sudal,Male,26,SLC,Joint,Hindiusm,2,4,Employed,5,4,94258,19778,288471,151118,115223
+111,46,Sudal,Male,26,Bachelors,Joint,Hindiusm,2,6,Employed,3,2,55948,78865,423752,537627,82612
+112,74,Sudal,Female,27,SLC,Nuclear,Hindiusm,2,6,Unemployed,,,72540,27925,462546,338285,163219
+113,99,Sudal,Male,27,Intermediate,Joint,Hindiusm,3,5,Unemployed,,,112906,72593,154229,502168,111587
+114,75,Sudal,Female,27,Attended School,Joint,Hindiusm,3,2,Unemployed,,,116502,70043,341842,226594,35114
+115,102,Sudal,Female,27,Masters,Joint,Hindiusm,2,2,Unemployed,,,82672,14214,195158,110774,64859
+116,18,Sudal,Male,28,Intermediate,Joint,Hindiusm,2,4,Employed,6,2,60000,25680,96800,161800,40450
+117,61,Sudal,Male,28,Attended School,Nuclear,Hindiusm,3,5,Unemployed,,,58754,28063,224090,471319,91697
+118,83,Sudal,Male,28,Bachelors,Nuclear,Hindiusm,2,6,Employed,9,2,66270,44674,315075,540832,58368
+119,85,Sudal,Female,28,SLC,Joint,Hindiusm,3,3,Employed,3,1,111866,20892,236084,420843,159061
+120,88,Sudal,Female,29,Masters,Joint,Hindiusm,3,2,Unemployed,,,48654,89123,368892,493209,92368
+121,32,Sudal,Male,29,Bachelors,Joint,Hindiusm,3,3,Unemployed,,,34080,64217,427953,159381,148641
+122,55,Sudal,Male,29,Attended School,Joint,Hindiusm,3,2,Unemployed,,,38070,65300,464998,264795,95941
+123,80,Sudal,Male,29,Masters,Nuclear,Hindiusm,3,5,Employed,10,1,90385,40589,343062,421945,91876
+124,57,Sudal,Male,30,Attended School,Nuclear,Hindiusm,2,3,Unemployed,,,37490,12727,118718,97000,169074
+125,90,Sudal,Female,30,Attended School,Nuclear,Hindiusm,2,4,Unemployed,,,36575,61025,162750,140850,68918
+126,64,Sudal,Male,30,Bachelors,Nuclear,Hindiusm,3,5,Employed,2,1,56235,21471,134285,429571,170783
+127,16,Sudal,Female,30,Masters,Joint,Hindiusm,2,4,Unemployed,,,72000,67881,103000,280000,70000
+128,15,Sudal,Female,32,Masters,Joint,Hindiusm,2,3,Employed,6,2,120000,34483,184990,284990,94997
+129,4,Sudal,Male,32,Masters,Joint,Hindiusm,2,4,Employed,3,1,50000,3242,58200,58200,14550
+130,11,Sudal,Female,32,Intermediate,Joint,Hindiusm,3,3,Unemployed,,,86500,54885,123500,612500,204167
+131,82,Sudal,Female,32,Bachelors,Joint,Hindiusm,3,7,Employed,9,4,67859,83711,328287,116039,71984
+132,56,Sudal,Male,32,Attended School,Joint,Hindiusm,2,2,Unemployed,,,105886,30902,379836,310977,62286
+133,40,Sudal,Female,33,Attended School,Joint,Hindiusm,3,4,Unemployed,,,88239,94295,164373,437193,143389
+134,77,Sudal,Male,33,Attended School,Nuclear,Hindiusm,2,7,Unemployed,,,76451,58822,149663,222852,58737
+135,71,Sudal,Male,33,Attended School,Nuclear,Hindiusm,2,5,Unemployed,,,36819,48185,275685,267858,171951
+136,79,Sudal,Female,34,SLC,Nuclear,Hindiusm,2,2,Unemployed,,,67622,25202,412612,327423,69151
+137,27,Sudal,Female,34,Masters,Nuclear,Hindiusm,3,6,Unemployed,,,25000,16026,132000,132000,22000
+138,95,Sudal,Female,35,Intermediate,Nuclear,Hindiusm,2,3,Employed,9,3,87062,28383,369442,326417,54982
+139,42,Sudal,Female,35,SLC,Nuclear,Hindiusm,3,7,Unemployed,,,114378,45280,390327,555845,139014
+140,3,Sudal,Female,35,Masters,Joint,Hindiusm,2,5,Employed,3,1,95680,69259,106030,115330,23066
+141,13,Sudal,Male,35,Masters,Joint,Hindiusm,3,3,Unemployed,,,56890,11374,99090,356890,118963
+142,17,Sudal,Male,36,Masters,Joint,Hindiusm,2,4,Unemployed,,,80000,40581,129000,204000,51000
+143,49,Sudal,Female,36,SLC,Joint,Hindiusm,2,3,Employed,3,1,84573,63986,284448,208811,176948
+144,87,Sudal,Female,36,Masters,Joint,Hindiusm,3,6,Unemployed,,,88197,18684,335160,353183,92767
+145,89,Sudal,Female,36,Attended School,Nuclear,Hindiusm,3,5,Unemployed,,,85966,59564,287063,500992,93174
+146,39,Sudal,Female,36,SLC,Nuclear,Hindiusm,2,4,Unemployed,,,113489,87942,345593,231564,121560
+147,62,Sudal,Male,37,Intermediate,Nuclear,Hindiusm,2,6,Unemployed,,,63126,63816,318153,209381,153341
+148,48,Sudal,Male,37,SLC,Joint,Hindiusm,3,3,Unemployed,,,79882,80533,108452,150965,127674
+149,97,Sudal,Female,38,Bachelors,Joint,Hindiusm,3,2,Employed,10,4,82195,33346,221797,238132,54821
+150,66,Sudal,Female,38,Intermediate,Nuclear,Hindiusm,3,7,Unemployed,,,60097,43135,355612,541997,64016
+151,2,Sudal,Male,38,Masters,Joint,Hindiusm,2,4,Employed,2,1,60000,56940,68000,75000,18750
+152,7,Sudal,Male,39,Intermediate,Nuclear,Hindiusm,2,5,Employed,4,4,96000,1485,259000,359000,71800
+153,31,Sudal,Male,40,Masters,Joint,Hindiusm,2,4,Employed,7,1,51470,8385,334956,221688,162120
+154,58,Sudal,Male,40,Masters,Nuclear,Hindiusm,3,7,Employed,6,1,91209,4692,356551,130820,155991
+155,9,Sudal,Male,41,Masters,Joint,Hindiusm,2,2,Employed,2,1,84000,13668,172000,232000,116000
+156,69,Sudal,Female,41,Intermediate,Joint,Hindiusm,2,3,Employed,5,3,68201,63437,332495,144261,53227
+157,73,Sudal,Male,41,SLC,Joint,Hindiusm,3,3,Employed,4,3,46441,83884,402118,97037,96863
+158,52,Sudal,Female,41,Masters,Joint,Hindiusm,3,2,Employed,8,3,71134,79559,222898,343540,175177
+159,59,Sudal,Male,41,Bachelors,Joint,Hindiusm,3,6,Employed,6,3,86588,95387,182764,277544,133713
+160,25,Sudal,Female,42,Intermediate,Joint,Hindiusm,3,4,Employed,10,4,25000,6238,123560,262560,65640
+161,37,Sudal,Female,42,Attended School,Nuclear,Hindiusm,2,6,Unemployed,,,102344,55887,288001,537245,115480
+162,28,Sudal,Male,42,Masters,Joint,Hindiusm,2,5,Unemployed,,,120000,64694,475000,475000,95000
+163,1,Sudal,Male,42,Attended School,Nuclear,Hindiusm,2,6,Employed,7,4,120000,73200,391000,511000,85167
+164,22,Sudal,Female,42,Masters,Joint,Hindiusm,3,4,Unemployed,,,60000,17205,97800,300000,75000
+165,54,Sudal,Male,43,Masters,Joint,Hindiusm,2,2,Employed,2,4,117326,29582,140191,289410,71173
+166,101,Sudal,Male,43,SLC,Joint,Hindiusm,2,2,Employed,4,2,91290,75463,161960,108531,104049
+167,44,Sudal,Male,44,Intermediate,Joint,Hindiusm,2,4,Unemployed,,,119872,37781,380491,559311,122519
+168,91,Sudal,Male,44,Intermediate,Nuclear,Hindiusm,2,2,Unemployed,,,76494,45706,296274,531943,80388
+169,6,Sudal,Female,45,Masters,Nuclear,Hindiusm,3,8,Employed,2,1,120000,8578,156000,256000,32000
+170,94,Sudal,Male,45,Masters,Nuclear,Hindiusm,2,2,Employed,7,1,74190,56361,233925,142989,67235
+171,51,Sudal,Male,45,Intermediate,Joint,Hindiusm,2,6,Employed,6,2,86146,28352,375820,355013,93916
+172,26,Sudal,Female,45,Masters,Joint,Hindiusm,3,4,Unemployed,,,60000,43465,135000,591890,147973
+173,67,Sudal,Male,45,SLC,Joint,Hindiusm,2,5,Unemployed,,,58610,31429,352478,157235,149790
+174,70,Sudal,Female,45,Attended School,Joint,Hindiusm,2,6,Unemployed,,,31746,67895,378271,273110,45678
+175,36,Sudal,Female,46,SLC,Joint,Hindiusm,3,5,Employed,7,1,108528,88982,172534,317300,103925
+176,41,Sudal,Male,46,Masters,Nuclear,Hindiusm,3,5,Employed,9,2,30137,28759,297343,185560,62470
+177,68,Sudal,Male,49,SLC,Joint,Hindiusm,2,5,Unemployed,,,109915,58319,183376,113864,170106
+178,5,Sudal,Male,49,Intermediate,Nuclear,Hindiusm,3,6,Employed,4,4,120000,79328,240000,300000,50000
+179,92,Sudal,Male,49,Intermediate,Joint,Hindiusm,3,7,Unemployed,,,48713,22136,263416,319294,116948
+180,45,Sudal,Male,49,SLC,Nuclear,Hindiusm,3,3,Employed,7,2,88622,99223,396401,384987,68122
+181,19,Sudal,Male,50,Attended School,Joint,Hindiusm,2,4,Employed,4,4,80000,57783,114000,600000,150000
+182,93,Sudal,Male,51,Bachelors,Joint,Hindiusm,3,7,Unemployed,,,73216,78972,367632,458577,39717
+183,63,Sudal,Male,52,Bachelors,Joint,Hindiusm,3,2,Employed,7,4,56872,12484,173728,108053,171500
+184,98,Sudal,Male,52,Attended School,Nuclear,Hindiusm,2,2,Employed,3,4,101613,53794,278066,474361,88331
+185,35,Sudal,Male,52,Bachelors,Joint,Hindiusm,3,7,Employed,6,1,97032,52219,357940,132871,47391
+186,72,Sudal,Male,52,Bachelors,Joint,Hindiusm,2,4,Unemployed,,,93508,73666,276585,434075,51636
+187,84,Sudal,Female,52,Masters,Joint,Hindiusm,3,2,Unemployed,,,84776,67318,389311,424008,100949
+188,10,Sudal,Female,55,Masters,Joint,Hindiusm,3,4,Employed,3,4,54000,2919,205000,444000,111000
