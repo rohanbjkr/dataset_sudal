@@ -37,6 +37,8 @@ rgdp	CBS	in million Rs.
 
 pop	NRB	in million	
 
-import NRB in million rupees
+imports NRB in million rupees
 
-export NRB in million rupees
+exports NRB in million rupees
+
+exc NRB USD/NPR
